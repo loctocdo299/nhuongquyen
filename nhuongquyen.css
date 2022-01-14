@@ -1,0 +1,50 @@
+#main {
+    background-image: url(images/IMG_0828.JPG);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0 0 auto auto !important;
+    padding: 90px 110px !important;
+    z-index: 2;
+    
+    
+} 
+#body_content .page_title {
+    color: #e53329;
+    font-size: 60px;
+    font-weight: bold;
+}
+#main_contain {
+    background-color: #ffe9db;
+    width: 60%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.title-job {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+.inf-job {
+    color: #883a04;
+
+}
+.inf-job label{
+    color: #883a04;
+    font-weight: bold;
+
+}
+
+#main_contain p{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.inf-job ul{
+    list-style: square;
+    padding-top: 5px;
+    padding-left: 5px;
+    
+}
+.inf-job span{
+    list-style-position: inside;
+}
